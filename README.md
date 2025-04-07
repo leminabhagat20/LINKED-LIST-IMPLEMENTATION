@@ -26,3 +26,5 @@ Overall, this program provides a solid practical understanding of how linked lis
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/d3cf5541-b21b-4157-8e19-7e47dfdd9a14)
+
